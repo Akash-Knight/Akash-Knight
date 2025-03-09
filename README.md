@@ -1,40 +1,40 @@
-#### 👋 Hi, I'm Akash Kumar!
+# ***👋 Hi, I'm Akash Kumar!***
 
-#### 🚀 About Me
+## 🚀 About Me
 
-I'm an aspiring Full-Stack Developer passionate about building web applications and learning new technologies. Currently, I'm working on improving my skills in the MERN stack and exploring Oracle Database.
+### ***I'm an aspiring Full-Stack Developer passionate about building web applications and learning new technologies. Currently, I'm working on improving my skills in the MERN stack and exploring Oracle Database.***
 
-#### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
-Frontend: HTML, CSS, JavaScript, React.js
+#### 1. Frontend: HTML, CSS, JavaScript, React.js
 
-Backend: Node.js, Express.js
+#### 2. Backend: Node.js, Express.js
 
-Database: MongoDB, Oracle Database
+#### 3.Database: MongoDB, Oracle Database
 
-Other Tools: Git, GitHub, VS Code
+#### Other Tools: Git, GitHub, VS Code
 
-######## 🌱 What I'm Learning
+## 🌱 What I'm Learning
 
-Advanced Express.js development
+#### Advanced Express.js development
 
-Deepening my knowledge of Oracle Database
+#### Deepening my knowledge of Oracle Database
 
-Building mini-projects to strengthen my MERN stack skills
+#### Building mini-projects to strengthen my MERN stack skills
 
-##### 📌 Current Project
+# 📌 Current Project
 
-I'm currently working on a MERN stack mini project to apply my skills in real-world development.
+#### I'm currently working on a MERN stack mini project to apply my skills in real-world development.
 
- ---- VitalEase
+ ####  VitalEase (Healthcare management system)
 
-#### 📫 Connect With Me
+## 📫 Connect With Me
 
-Instagram: @abt_akash
+#### Instagram: @abt_akash
 
-GitHub: https://github.com/Akash-Knight 
+#### GitHub: https://github.com/Akash-Knight 
 
-Let's connect and collaborate on exciting projects! 🚀
+## Let's connect and collaborate on exciting projects! 🚀
 
 <!---
 Akash-Knight/Akash-Knight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
