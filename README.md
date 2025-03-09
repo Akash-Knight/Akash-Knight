@@ -1,10 +1,10 @@
-###👋 Hi, I'm Akash Kumar!
+#### 👋 Hi, I'm Akash Kumar!
 
-###🚀 About Me
+#### 🚀 About Me
 
 I'm an aspiring Full-Stack Developer passionate about building web applications and learning new technologies. Currently, I'm working on improving my skills in the MERN stack and exploring Oracle Database.
 
-###🛠️ Skills & Technologies
+#### 🛠️ Skills & Technologies
 
 Frontend: HTML, CSS, JavaScript, React.js
 
@@ -14,7 +14,7 @@ Database: MongoDB, Oracle Database
 
 Other Tools: Git, GitHub, VS Code
 
-###🌱 What I'm Learning
+######## 🌱 What I'm Learning
 
 Advanced Express.js development
 
@@ -22,13 +22,13 @@ Deepening my knowledge of Oracle Database
 
 Building mini-projects to strengthen my MERN stack skills
 
-###📌 Current Project
+##### 📌 Current Project
 
 I'm currently working on a MERN stack mini project to apply my skills in real-world development.
 
  ---- VitalEase
 
-###📫 Connect With Me
+#### 📫 Connect With Me
 
 Instagram: @abt_akash
 
