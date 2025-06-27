@@ -6,10 +6,31 @@ I'm an aspiring **Full-Stack Developer** passionate about building web applicati
 
 ## 🛠️ Skills & Technologies
 
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, Oracle Database
-- **Other Tools**: Git, GitHub, VS Code
+💻 Languages
+C++
+Java
+Python
+JavaScript
+
+🌐 Web Development
+HTML5
+CSS3
+React
+Node.js
+Express.js
+
+🗄️ Databases
+MySQL
+MongoDB
+
+🔧 Tools & Platforms
+Git
+GitHub
+VS Code
+Postman
+MySQL Workbench
+
+
 
 ## 🌱 What I'm Learning
 
