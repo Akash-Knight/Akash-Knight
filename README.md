@@ -56,6 +56,9 @@ I'm currently working on a **MERN stack mini project** to apply my skills in rea
 
 - **Instagram**: [@abt_akash](https://www.instagram.com/abt_akash)
 - **GitHub**: [Akash-Knight](https://github.com/Akash-Knight)
+- ## 🌐 My Portfolio
+Check out my portfolio here: [Akash Portfolio](https://kumar-akashportfolio.netlify.app/)
+
 
 Let's connect and collaborate on exciting projects! 🚀
 
