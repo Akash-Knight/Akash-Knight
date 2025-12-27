@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/24352877/README.md)
-# 👋 Hi, I'm Akash Kumar (Akash-Knight)
+# 👋 Hi, I'm Akash Kumar 
 
 I'm an aspiring Full‑Stack Developer focused on building modern web applications and learning continuously. Currently sharpening my skills with the MERN stack and exploring other tools and platforms.
 
