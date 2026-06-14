@@ -120,7 +120,7 @@ If you want to collaborate, drop me a message (see Contact below) with what you�
 ## 📫 Contact
 
 - GitHub: [@Akash-Knight](https://github.com/Akash-Knight)  
-- Email: your-email@example.com  ← replace with your actual email or remove if you prefer GitHub contact
+- Email: akku47138@gmail.com 
 -  **Website:** (https://akash-room.vercel.app/)
 
 ---
