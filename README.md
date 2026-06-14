@@ -121,7 +121,7 @@ If you want to collaborate, drop me a message (see Contact below) with what you‚
 
 - GitHub: [@Akash-Knight](https://github.com/Akash-Knight)  
 - Email: your-email@example.com  ‚Üê replace with your actual email or remove if you prefer GitHub contact
--  **Website:** [https://akashwebin.netlify.app/](https://akash-room.vercel.app/)
+-  **Website:** (https://akash-room.vercel.app/)
 
 ---
 
