@@ -78,10 +78,11 @@ I enjoy turning ideas into working products. I focus on practical learning — b
   - Summary: Smart Print System is a full-stack MERN application that enables users to upload documents, select print preferences, make online payments, and track print status in real time. The system is designed for cyber cafes and print shops to automate document printing and reduce customer waiting time.
   - Link: https://github.com/Akash-Knight/Smart-print
 
-- Another Project — Short tagline  
-  - Tech: Arduino, C++  
-  - Summary: One‑line about hardware integration or features  
-  - Link: https://github.com/Akash-Knight/<project-repo>
+- Another Project — Collablift 
+  - Tech:  React, Node, express, MongoDB
+  - Summary: Collablift is a premium, modern Brand-Influencer Collaboration Platform. It enables brands to post campaigns, discover influencers, and manage proposals, while allowing influencers to showcase their portfolios, explore sponsorship opportunities, and collaborate in real-time
+
+  - Link: https://github.com/Akash-Knight/Collablift
 
 ---
 
