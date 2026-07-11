@@ -73,10 +73,10 @@ I enjoy turning ideas into working products. I focus on practical learning — b
 
 > Replace the placeholders below with project names, short descriptions, tech used, and links to the repository or live demo.
 
-- Project Name — Short tagline  
+- Project Name — Smart-print 
   - Tech: React, Node, MongoDB  
   - Summary: One‑line about purpose or features  
-  - Link: https://github.com/Akash-Knight/<project-repo>
+  - Link: https://github.com/Akash-Knight/Smart-print
 
 - Another Project — Short tagline  
   - Tech: Arduino, C++  
