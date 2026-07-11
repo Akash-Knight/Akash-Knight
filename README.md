@@ -75,7 +75,7 @@ I enjoy turning ideas into working products. I focus on practical learning — b
 
 - Project Name — Smart-print 
   - Tech: React, Node, MongoDB  
-  - Summary: One‑line about purpose or features  
+  - Summary: Smart Print System is a full-stack MERN application that enables users to upload documents, select print preferences, make online payments, and track print status in real time. The system is designed for cyber cafes and print shops to automate document printing and reduce customer waiting time.
   - Link: https://github.com/Akash-Knight/Smart-print
 
 - Another Project — Short tagline  
